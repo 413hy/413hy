@@ -1,6 +1,6 @@
 <div align='center'>
 
-  <!--计算访问次数-->
+  <!--Hi-->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hi,%20I'm%20YangHE%20!&textBg=false&fontAlignY=55" />
 
   <!--动态分割线-->
@@ -16,8 +16,6 @@
 
   <br>
 
-  <div align='center'>
-
   <h2>
     💪 Studying and Tools 🔧
   </h2>
@@ -30,7 +28,7 @@
 
   <img src='https://skillicons.dev/icons?i=vscode,visualstudio,idea,cloudflare,astro,powershell,linux,ubuntu'>
 
-  </div>
+</div>
 
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
