@@ -1,8 +1,9 @@
 <div align='center'>
 
   <!--计算访问次数-->
-  <img src="[https://count.getloli.com/get/@demonq0q?theme=rule34](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20YangHE%20!&textBg=false)" />
-
+  <p align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20YangHE%20！&textBg=false)" />
+  </p>
   
 
   <!--动态分割线-->
