@@ -1,7 +1,9 @@
 <div align='center'>
 
   <!--计算访问次数-->
-  <img src="https://count.getloli.com/get/@demonq0q?theme=rule34" />
+  <img src="[https://count.getloli.com/get/@demonq0q?theme=rule34](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20YangHE%20!&textBg=false)" />
+
+  
 
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
