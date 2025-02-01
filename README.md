@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20THERE!&section=header&reversal=true)" />
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1000&center=true&width=800&height=70&lines=Welcom+to+my+Github+profile+page!;I'm+Yaoqx%2C+a+Chinese+student!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Welcome+to+my+Github+profile+page!;I'm+YangHE%2Cfrom+Chinese!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
