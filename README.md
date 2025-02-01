@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hi,%20I'm%20YangHE%20!&textBg=false&fontAlignY=55" />
 
   <!--动态分割线-->
+
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
   <!--动态打字效果-->
@@ -48,7 +49,7 @@
   </p>
 
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=footer&text=BYE!&fontSize=80&fontAlign=50&fontAlignY=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=BYE!&section=footer&fontAlignY=75" />
   </p>
 
 </div>
