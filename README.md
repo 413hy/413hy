@@ -1,7 +1,7 @@
 <div align='center'>
 
   <!--计算访问次数-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi，%20I'm%20YangHE%20！&textBg=false&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%10I'm%20YangHE%20！&textBg=false&fontAlignY=38" />
 
   <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
