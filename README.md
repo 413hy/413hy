@@ -49,7 +49,7 @@
   </p>
 
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=BYE!&section=footer&fontAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=BYE!&section=footer&fontAlignY=70&animation=fadeIn" />
   </p>
 
 </div>
