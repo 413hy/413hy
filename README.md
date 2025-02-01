@@ -2,7 +2,7 @@
 
   <!--计算访问次数-->
   <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlign=50&fontAlignY=30&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20YangHE%20!&textBg=false" />
 </p>
 
   
