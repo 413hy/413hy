@@ -28,7 +28,7 @@
 
   <br>
 
-  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,idea,anaconda,qt,powershell,linux,ubuntu'>
+  <img src='https://skillicons.dev/icons?i=vscode,visualstudio,idea,cloudflare,astro,powershell,linux,ubuntu'>
 
   </div>
 
