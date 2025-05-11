@@ -3,8 +3,23 @@
   <!--Hi-->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Hi,%20I'm%20YangHE%20!&textBg=false&fontAlignY=55" />
 
-  <!--动态分割线-->
+  <!--snk-->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 
+  <!--动态分割线-->
   <img src="https://cdn.jsdelivr.net/gh/demonq0q/demonq0q/assets/hr.gif">
 
   <!--动态打字效果-->
